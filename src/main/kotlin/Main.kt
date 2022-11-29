@@ -1,5 +1,5 @@
 fun main() {
-    //// определение объёма прямоугольного параллелепипеда
+    /// определение объёма прямоугольного параллелепипеда
     println("Hello! Please specify three sides and I will calculate the volume")
     println("Enter the first side:")
     val side1=readln()
